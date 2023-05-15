@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dannyridel
 - 👀 I’m interested in electrical engineering, number theory, formula one, and physics in general
-- 🌱 I’m currently preparing for the F=ma
+- 🌱 I’m currently preparing for USAPhO and USABO D:
 - 💞️ I’m looking to collaborate on mutorials...find us on github by searching 'Mutorials'
-- 📫 How to reach me ... dannyridel44@yandex.com, dannyridel#2256 on discord, dannyridel on youtube and twitch, Dannyridel2256 on wechat
+- 📫 How to reach me ... dannyridel@protonmail.com, dannyridel#2256 on discord, dannyridel on youtube and twitch, dannyridel_2256 on wechat
