@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @dannyridel
+- 👋 Hi, I’m @dannyridel, a huge swiftie :)
 - 👀 I’m interested in [electrical engineering, number theory, formula one, and physics in general]
-- 🌱 I’m currently grinding [USAPhO + USACO ??]
+- 🌱 I’m currently grinding [USAPhO + USABO]
 - 💞️ I’m looking to collaborate on [mutorials...find us on github by searching 'Mutorials']
-- 📫 How to reach me ... [dannyridel@protonmail.com, dannyridel on discord, dannyridel on youtube and twitch, dannyridel_2256 on wechat]
+- 📫 How to reach me ... [dannyridel@protonmail.com, @dannyridel on discord, dannyridel on youtube and twitch, dannyridel_2256 on wechat]
