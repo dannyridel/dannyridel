@@ -1,1 +1,3 @@
-an unfinished manuscript..
+unfinished manuscript...
+
+Current projects are mostly tools built surrounding the online football management game "The Open League", including scouting, elo, and match prediction tools.
